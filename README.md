@@ -43,4 +43,4 @@ Microsoft Excel (Pivot Tables, Charts, Slicers, Conditional Formatting)
 Built a clean, professional Excel dashboard enabling quick decision-making and trend visualization for store management.
 
 
-<image src="Vrinda Excel Sales Repo.png" href="Dashboard Snapshot"/>
+<image src="Vrinda Excel Sales Repo.PNG" href="Dashboard Snapshot"/>
